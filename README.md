@@ -21,13 +21,13 @@ Veja abaixo o modelo visual de como os diretórios são organizados:
 ```
 curso-com-modulos/
 ├── 📁 modulo-01/
-│   ├── 📁 conteudo/
+│   ├── 📁 nome-do-assunto/
 │   │   └── 📄
 │   ├── 📁 mini-projeto/ (Fixação do Módulo 01)
 │   │   └── 📄
 │   └── 📄 README.md
 ├── 📁 modulo-02/
-│   ├── 📁 conteudo/
+│   ├── 📁 nome-do-assunto/
 │   │   └── 📄
 │   ├── 📁 mini-projeto/ (Fixação do Módulo 02)
 │   │   └── 📄
@@ -35,9 +35,9 @@ curso-com-modulos/
 └── 📄 README.md
 
 curso-sem-modulos/
-├── 📁 conteudo/
+├── 📁nome-do-assunto/
 │   └── 📄
-├── 📁 conteudo/
+├── 📁 nome-do-assunto/
 │   └── 📄
 ├── 📁 mini-projeto/ (Fixação do conteúdo geral)
 │   └── 📄
