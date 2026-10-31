@@ -10,4 +10,4 @@
 - **Atributos de Imagem:** Configuração de acessibilidade com o atributo `alt` e controle de exibição com `width` e `height`
 - **Favicon do Site:** Adição do ícone da aba do navegador via `<link rel="shortcut icon">`
 - **Comentários no Código:** Organização do documento HTML com comentários explicativos para marcar cada bloco de estudo
-- **negrito e itálico:**formatação correta de texto de forma semântica utilizando as tags `<strong>`e `<em>`.
+- **negrito e itálico:** formatação correta de texto de forma semântica utilizando as tags `<strong>`e `<em>`.
