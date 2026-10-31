@@ -18,7 +18,7 @@ Para manter os estudos limpos e organizados, divido o repositório considerando 
 * **Para cursos sem divisão de módulos:** A pasta do curso concentra os arquivos de conteúdo direto, acompanhada de um **mini projeto** focado na aplicação prática do tema abordado.
 
 Veja abaixo o modelo visual de como os diretórios são organizados:
-
+```
 curso-com-modulos/
 ├── 📁 modulo-01/
 │   ├── 📁 conteudo/
@@ -42,7 +42,7 @@ curso-sem-modulos/
 ├── 📁 mini-projeto/ (Fixação do conteúdo geral)
 │   └── 📄
 └── 📄 README.md
-
+```
 ---
 
 ## 🛠️ Tecnologias e Ferramentas

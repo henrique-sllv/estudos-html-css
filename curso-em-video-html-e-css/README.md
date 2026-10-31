@@ -8,4 +8,4 @@ Exercícios e projetos práticos desenvolvidos durante o curso de HTML e CSS min
 
 O curso está dividido em 5 módulos e abaixo estão os conteúdos estudados:
 
-- [x] **Módulo 01:** Hierarquia de títulos, parágrafos `<p>`, quebra de linhas `<br>`, adição de imagens e adição de favicons.
+- [x] **Módulo 01:** Hierarquia de títulos, parágrafos `<p>`, quebra de linhas `<br>`, adição de imagens e adição de favicons,negrito `<strong>` e itálico `<em>`.
