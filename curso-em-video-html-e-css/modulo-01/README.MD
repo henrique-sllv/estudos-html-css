@@ -23,4 +23,8 @@ Nesta primeira etapa, o foco é construir a base fundamental, abordando a introd
 
 ---
 
-[⬅️ Voltar para o repositório principal](../)
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** (Estruturação e semântica)
+- **Visual Studio Code** (Editor de código)

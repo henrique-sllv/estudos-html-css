@@ -19,3 +19,11 @@
 - **Código-fonte:** Tag `<code>` para facilitar a leitura de blocos de código.
 - **Código pré-formatado:** Utilização de `<pre>` para mostrar exatamente o que foi escrito.
 - **Citação simples e completa:** Citações com as tags `<q>` e `<blockquote>`.
+
+---
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** (Estruturação e semântica)
+- **Visual Studio Code** (Editor de código)
