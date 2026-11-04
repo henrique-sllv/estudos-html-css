@@ -1,4 +1,4 @@
-# 📚 Módulo: Desafios Práticos de HTML5
+# 📚 Desafios Práticos de HTML5
 
 Esta pasta reúne os desafios práticos desenvolvidos 
 

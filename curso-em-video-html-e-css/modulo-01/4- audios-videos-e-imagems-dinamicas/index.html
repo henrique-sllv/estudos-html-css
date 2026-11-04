@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4 - audios, videos e imagens dinamicas</title>
+</head>
+<body>
+    <h1>seja bem-vindo ao site prático criado para treinar a adição de imagens dinâmicas, áudios e vídeos</h1>
+
+    <!--seção imagens dinâmicas-->
+      <!--com media em tamanho máximo (max-width)-->
+        <picture>
+            <source media="(max-width: 700px)" srcset="imagens/imagemP.webp" type="image/webp">
+            <source media="(max-width: 1050px)" srcset="imagens/imagemM.webp" type="image/webp">
+            <img src="imagens/imagemG.webp" alt="imagem flexível">
+        </picture>
+        <!--com media em tamanho mínimo (min-width)-->
+        <picture>
+            <source media="(min-width: 1000px)" srcset="imagens/imagemG.webp" type="image/webp">
+            <source media="(min-width: 700px)" srcset="imagens/imagemM.webp" type="image/webp">
+            <img src="imagens/imagemP.webp" alt="flexível">
+
+        </picture>
+        
+
+</body>
+</html>
