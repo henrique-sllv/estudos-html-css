@@ -19,7 +19,7 @@ Nesta primeira etapa, o foco é construir a base fundamental, abordando a introd
 - [x] **Listagem de itens:** Aprendendo diferentes tipos de listas.
 - [x] **Links e âncoras:** Uso de links e âncoras.
 - [x] **Trabalhando com imagens, áudio e vídeo:** Como inserir e manipular mídias nos projetos.
-- [ ] **Introdução ao CSS3:** Primeiros passos para dar estilo e cor aos elementos criados.
+- [x] **Introdução ao CSS3:** Primeiros passos para dar estilo e cor aos elementos criados.
 
 ---
 
