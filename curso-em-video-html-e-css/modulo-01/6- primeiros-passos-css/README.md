@@ -1,14 +1,18 @@
 # 📚 6 - CSS
 
-Esta pasta reúne os conteúdos de adição de imagens dinâmicas, áudios e vídeos.
+Esta pasta reúne os conteúdos de css aprendidos no modulo
 
 ---
 
 # 🎯 O que foi praticado nesta etapa
-- **Estilos inline:** estilo adicionado diretamente à tag dentro do HTML.
+
+* **Estilos inline:** Estilos adicionados diretamente à tag dentro do HTML.
+* **Estilos internos:** Estilos adicionados no `<head>` do próprio projeto com a tag `<style>`.
 
 ---
 
 # 🛠️ Tecnologias Utilizadas
-- **HTML5** (Estruturação e semântica)
-- **Visual Studio Code** (Editor de código)
+
+* **HTML5** (Estruturação e semântica)
+* **CSS3** (Estilização e design)
+* **Visual Studio Code** (Editor de código)
