@@ -8,7 +8,7 @@ Esta pasta reúne os desafios práticos desenvolvidos
 
 ### 1. Minhas Redes Sociais
 Uma página de apresentação pessoal 
-* **O que foi praticado:**
+* **O que foi praticado nesta etapa:**
   - Inserção de favicon e título da página.
   - Uso de imagens locais e caminhos relativos (`<img>`).
   - Criação de listas não ordenadas (`<ul>`, `<li>`) para agrupamento de links.

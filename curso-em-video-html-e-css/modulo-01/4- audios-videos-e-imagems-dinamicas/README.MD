@@ -9,6 +9,8 @@ Esta pasta reúne os conteúdos de adição de imagens dinâmicas, áudios e ví
 - **áudios:** adicionando áudios com a tag <audio> e colocando modificações extras `preload`,
 `controls`,`loop`,`autoplay`
 
+- **videos internos e externos:** adicionar videos por meio da tag `<video>`
+
 ---
 
 # 🛠️ Tecnologias Utilizadas
