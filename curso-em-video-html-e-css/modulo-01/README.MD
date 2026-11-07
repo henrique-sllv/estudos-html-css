@@ -27,4 +27,5 @@ Nesta primeira etapa, o foco é construir a base fundamental, abordando a introd
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5** (Estruturação e semântica)
-- **Visual Studio Code** (Editor de código)
+- **CSS3** (Estilização e design)
+- - **Visual Studio Code** (Editor de código)

@@ -9,3 +9,10 @@ Exercícios e projetos práticos desenvolvidos durante o curso de HTML e CSS min
 O curso está dividido em 5 módulos, cada um possuindo conteúdos que vão desde os primeiros passos até o HTML e CSS um pouco mais avançados.
 
 Os conteúdos estudados durante os módulos estão listados em cada etapa registrada.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** (Estruturação e semântica)
+- **CSS3** (Estilização e design)
+- - **Visual Studio Code** (Editor de código)
