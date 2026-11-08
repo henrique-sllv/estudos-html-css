@@ -6,4 +6,11 @@ Neste repositório, você encontrará o projeto desenvolvido com base em todos o
 
 ---
 
-Boa análise!
+# 🛠️ Tecnologias Utilizadas
+
+- **HTML5** (Estruturação e semântica)
+- **CSS3** (Estilização e design)
+- **Visual Studio Code** (Editor de código)
+
+---
+boa analise!
