@@ -35,7 +35,7 @@ Aqui ficam armazenados todos os arquivos fonte, anotações e exercícios, divid
 ### 2. Parte Web (Mini Projetos)
 Para testar e visualizar os resultados práticos sem precisar baixar o código, acesse a página publicada via **GitHub Pages**:
 
-🔗 **[Acessar vitrine de Mini Projetos](https://henrique-sllv.github.io/estudos-html-css/)**
+🔗 **[Acessar vitrine de Mini Projetos](https://henrique-sllv.github.io/estudos-tecnologia-da-informacao/)**
 
 **Materiais com módulos:** Cada módulo concluído conta com seu próprio mini projeto de fixação.  
 **Materiais sem divisões:** Todo o conteúdo é consolidado em um único mini projeto final.

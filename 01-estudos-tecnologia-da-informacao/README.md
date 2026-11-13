@@ -21,4 +21,4 @@ Dentro de cada pasta você encontrará:
 
 ---
 
-> 💡 **Web:** Para visualizar apenas os mini projetos web já prontos e rodando direto no navegador, acesse a **[Vitrine de Mini Projetos](https://henrique-sllv.github.io/estudos-html-css/)**.
+> 💡 **Web:** Para visualizar apenas os mini projetos web já prontos e rodando direto no navegador, acesse a **[Vitrine de Mini Projetos](https://henrique-sllv.github.io/estudos-tecnologia-da-informacao/)**.
