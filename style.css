@@ -1,0 +1,20 @@
+body{
+    background-color: #141313;
+    color:#e6edf3;
+}
+
+a{
+    color:#58a6ff;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #7a80ff;
+}
+
+ul,li{
+    font-size: 17px;
+}
+
+p{
+    font-size: 17px;
+}

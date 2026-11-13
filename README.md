@@ -1,24 +1,51 @@
-# 🌐 estudos-html-e-css
+# 🌐 estudos-gerais
 
-> Repositório dedicado à fixação de conteúdos sobre HTML5 e CSS3 estudados por mim.
+> Repositório dedicado à fixação de conteúdos e práticas de programação e desenvolvimento estudados por mim.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este repositório foi criado para documentar minha evolução prática em desenvolvimento web. Aqui organizo conteúdos teóricos, exercícios práticos e mini projetos que fixam os aprendizados obtidos ao longo dos meus estudos.
+Este repositório foi criado para documentar minha evolução prática na tecnologia. Aqui organizo conteúdos teóricos, códigos de lógica, exercícios práticos e mini projetos que fixam os aprendizados obtidos ao longo dos meus estudos.
 
 ---
 
 ## 📂 Estrutura 
 
-Para manter os estudos limpos e organizados, divido o repositório considerando o formato de cada curso:
+### 1. 📁 `01-estudos-tecnologia-da-informacao/`
+O diretório central dos estudos.
 
-* **Para cursos divididos em módulos:** Cada pasta de módulo armazena os seus respectivos conteúdos de estudo e conta com o seu próprio **mini projeto** focado na fixação do que foi aprendido naquele módulo.
-* **Para cursos sem divisão de módulos:** A pasta do curso concentra os arquivos de conteúdo direto, acompanhada de um **mini projeto** focado na aplicação prática do tema abordado.
+### 2. 📁 `02-pages/` (Vitrine Web)
+O ambiente dedicado a hospedar a estrutura visual e interativa dos mini projetos finalizados, prontos para navegação via **GitHub Pages**.
+
+### 3. 📁 `03-assets/`
+Repositório de recursos globais compartilhados, como ícone e imagens gerais de capa da página principal.
+
+---
+
+Para manter tudo limpo e organizado, divido o projeto em duas partes:
+
+### 1. Parte do Repositório (Pastas de Estudo)
+Aqui ficam armazenados todos os arquivos fonte, anotações e exercícios, divididos considerando o formato de cada conteúdo ou curso:
+
+- **Para conteúdos divididos em módulos:** Cada pasta de módulo armazena os seus respectivos conteúdos de estudo e conta com o seu próprio **mini projeto** focado na fixação do que foi aprendido naquele módulo.
+- **Para conteúdos sem divisão de módulos:** A pasta concentra os arquivos diretos, acompanhada de um **mini projeto** focado na aplicação prática do tema abordado.
+
+### 2. Parte Web (Mini Projetos)
+Para testar e visualizar os resultados práticos sem precisar baixar o código, acesse a página publicada via **GitHub Pages**:
+
+🔗 **[Acessar vitrine de Mini Projetos](https://henrique-sllv.github.io/estudos-html-css/)**
+
+**Materiais com módulos:** Cada módulo concluído conta com seu próprio mini projeto de fixação.  
+**Materiais sem divisões:** Todo o conteúdo é consolidado em um único mini projeto final.
+
+> **Nota:** O ambiente online reúne **exclusivamente os mini projetos** web finalizados, deixando de fora os arquivos teóricos, exercícios avulsos e códigos de lógica (como Portugol).
+
+---
 
 Veja abaixo o modelo visual de como os diretórios são organizados:
-```
+
+```text
 curso-com-modulos/
 ├── 📁 modulo-01/
 │   ├── 📁 nome-do-assunto/
@@ -35,7 +62,7 @@ curso-com-modulos/
 └── 📄 README.md
 
 curso-sem-modulos/
-├── 📁nome-do-assunto/
+├── 📁 nome-do-assunto/
 │   └── 📄
 ├── 📁 nome-do-assunto/
 │   └── 📄
@@ -44,16 +71,12 @@ curso-sem-modulos/
 └── 📄 README.md
 ```
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - **HTML5:** Estruturação semântica de páginas.
 - **CSS3:** Estilização, layout e responsividade.
 - **Git & GitHub:** Controle de versão e organização de código.
 - **VS Code:** Editor de código principal.
-
-_Obs.: Este repositório não utiliza o GitHub Pages ativado, pois é focado no armazenamento e histórico de múltiplos módulos e estudos._
-
 ---
 
 Feito por Marcos Henrique Silva de Sousa 👋  

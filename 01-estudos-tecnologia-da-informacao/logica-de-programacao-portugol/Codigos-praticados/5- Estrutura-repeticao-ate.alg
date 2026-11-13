@@ -1,0 +1,28 @@
+algoritmo "semnome"
+var
+ SEX,CAB, RESP : CARACTERE
+ HOMEM, MULHER, IDAD : INTEIRO
+inicio
+ REPITA
+    ESCREVAL ( " QUAL O SEXO ???")
+    ESCREVAL (" M OU H ")
+    LEIA (SEX)
+    ESCREVAL (" TIPO DE CABELO ")
+    ESCREVAL(" LOIRO, CASTANHO OU PRETO")
+    LEIA ( CAB )
+    ESCREVAL (" IDADE ")
+    LEIA ( IDAD )
+         SE ( SEX = "M") E ( CAB = "LOIRO" ) E ( IDAD >= 25 ) ENTAO
+         MULHER <- MULHER + 1
+         SENAO
+              SE ( SEX = "H" ) E ( CAB = "CASTANHO" ) E ( IDAD >= 18 ) ENTAO
+              HOMEM <- HOMEM + 1
+              FIMSE
+         FIMSE
+   ESCREVAL (" QUER CONTINUAR ???")
+   LEIA (RESP)
+   LIMPATELA
+ ATE( RESP = "NÃO")
+ ESCREVAL (" O NÚMERO DE MULHERES COM MAIS OU 25 ANOS E COM CABELO LOIRO É ", MULHER )
+ ESCREVAL (" O NUMERO DE HOMEMS COM 18 OU MAIS ANOS E COM CABELO CASTANHO É ", HOMEM )
+fimalgoritmo
