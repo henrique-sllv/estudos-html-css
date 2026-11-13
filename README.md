@@ -22,6 +22,7 @@ O ambiente dedicado a hospedar a estrutura visual e interativa dos mini projetos
 Repositório de recursos globais compartilhados, como ícone e imagens gerais de capa da página principal.
 
 ---
+## Organização
 
 Para manter tudo limpo e organizado, divido o projeto em duas partes:
 
@@ -43,7 +44,7 @@ Para testar e visualizar os resultados práticos sem precisar baixar o código, 
 
 ---
 
-Veja abaixo o modelo visual de como os diretórios são organizados:
+## modelo visual de como os diretórios são organizados:
 
 ```text
 curso-com-modulos/
